@@ -33,3 +33,11 @@ Research into **genuinely early** technologies, networks, and infrastructure tha
 - Funding rounds, price drops and large theoretical backlogs do not prove investment value.
 - Keep dated source links, preserve past assessments, and never invent quotes, tokens, contracts or returns.
 - GitHub changes must reflect what was actually checked. No automatic purchases.
+
+## Start here — persistent agent handoff
+
+- **[CHATGPT-HANDOFF.md](CHATGPT-HANDOFF.md)** — mandatory read-first operating state for every new ChatGPT research director.
+- **[MUSE-OPERATING-BRIEF.md](MUSE-OPERATING-BRIEF.md)** — Muse daily/weekly/monthly research instructions; **delivery to Muse and its weekly/monthly schedules still need confirmation**.
+- **[GitHub Issues](https://github.com/sultanamaan1991-beep/Next-Bitcoin-radar/issues)** — authoritative investigation queue, including MUSE-002 through MUSE-005 and OPS-001.
+
+The director maintains GitHub as the reviewed source of truth. Do not assume automated connector writes work until demonstrated in scheduled runs.
