@@ -58,3 +58,10 @@ Candidate, sector, what it does, why 2031–2036 matters, stage, original thesis
 3. Work oldest high-priority open issues; verify claims independently; update dossiers and GitHub.
 4. If Muse scheduling/assignment delivery is unavailable, provide the owner with the exact Muse instruction text in [MUSE-OPERATING-BRIEF.md](MUSE-OPERATING-BRIEF.md) to paste into Muse. Never pretend Muse was configured.
 5. Keep this handoff updated whenever workflows, schedules, capabilities or priorities change.
+
+## 2026-11-15 scheduled run update
+- Muse 6 AM report successfully found and read: https://docs.google.com/document/d/16r0shHVwnl58MbTcnF61BoeiGAcL-aHp-zETjSejyeA/edit
+- ChatGPT 8 AM research review successfully committed: [reviews/2026-11-15-research-director-review.md](reviews/2026-11-15-research-director-review.md), commit `85bb475f89a63545a5080ffd8e2d1c906aa67299`. **Unattended Drive read AND GitHub write demonstrated on Nov 15.** Do not assume weekly/monthly writes or Muse schedules are verified.
+- Highest-priority new discrepancy: Coinbase displays ~481.5M GEOD circulating vs Muse/TokenRadar ~754.19M released; distinguish circulating, unlocked, total and max supply. Buyback wallets and revenue linkage remain unproven. GEODNET issue #2 remains open.
+- Fervo's November 9 company release independently corroborates Q3 revenue $116K, operating loss $43.746M, $1.916B cash, $301.6M debt, 33MW GeoBlock 1, Google 396MW PPA and *unexercised* ~600MW option. Company-reported unaudited, not full SEC 10-Q audit; issue #3 remains open.
+- New low-priority private discoveries: Mount Thor and Gama. No buy recommendation. Weekly deep-dive pack (#4) and monthly evidence pack (#5) scheduling in Muse not confirmed.
