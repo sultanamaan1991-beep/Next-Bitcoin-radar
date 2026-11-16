@@ -65,3 +65,12 @@ Candidate, sector, what it does, why 2031–2036 matters, stage, original thesis
 - Highest-priority new discrepancy: Coinbase displays ~481.5M GEOD circulating vs Muse/TokenRadar ~754.19M released; distinguish circulating, unlocked, total and max supply. Buyback wallets and revenue linkage remain unproven. GEODNET issue #2 remains open.
 - Fervo's November 9 company release independently corroborates Q3 revenue $116K, operating loss $43.746M, $1.916B cash, $301.6M debt, 33MW GeoBlock 1, Google 396MW PPA and *unexercised* ~600MW option. Company-reported unaudited, not full SEC 10-Q audit; issue #3 remains open.
 - New low-priority private discoveries: Mount Thor and Gama. No buy recommendation. Weekly deep-dive pack (#4) and monthly evidence pack (#5) scheduling in Muse not confirmed.
+
+## 2026-11-16 scheduled director run update
+- Muse daily report delivered ~06:00 PT and read: https://docs.google.com/document/d/1hlLVS5rhTXDo1fE0JKQvN3rxCUqGcawnANco_ylLd_0/edit
+- Muse **weekly investigation pack** delivered Nov 15 ~18:17 PT and read: https://docs.google.com/document/d/1tjBh55hG6FR4RPfBbzy8y86M9DfHnQH8aUxn1bw2A_k/edit . This confirms weekly *delivery*, not that its recurrence is fully tested.
+- Director archived [Nov 16 review](reviews/2026-11-16-research-director-review.md), commit `a9fddd5c75bbf5788beae24cbb14ea074d335c84`. GitHub write succeeded.
+- **New:** Seawolf Therapeutics private, Muse 60/100; Nov 16 company announcement confirms $100M funding and Sanofi collaboration with *up to* $1.2B contingent milestones; no human data or retail route.
+- **Critical:** DefiLlama GEODNET 'revenue' derived from burns / assumed fraction; not independent customer cash receipt proof. Dropresolve identifies unlabelled burn wallets and no visible same-tx swaps; this is not proof purchases never happened. Coinbase GEOD supply figures remain inconsistent with other trackers. Issue #2 open.
+- Fervo investor relations confirms Nov 9 Q3 release; resource decline dispute, plant output and financing remain open, issue #3. Nov 19 investor open house forthcoming.
+- No buy recommendations, no trades. Separate Monday 9 AM weekly committee run should assess Muse's weekly pack independently; don't duplicate this daily report.
