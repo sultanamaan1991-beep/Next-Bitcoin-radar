@@ -74,3 +74,10 @@ Candidate, sector, what it does, why 2031–2036 matters, stage, original thesis
 - **Critical:** DefiLlama GEODNET 'revenue' derived from burns / assumed fraction; not independent customer cash receipt proof. Dropresolve identifies unlabelled burn wallets and no visible same-tx swaps; this is not proof purchases never happened. Coinbase GEOD supply figures remain inconsistent with other trackers. Issue #2 open.
 - Fervo investor relations confirms Nov 9 Q3 release; resource decline dispute, plant output and financing remain open, issue #3. Nov 19 investor open house forthcoming.
 - No buy recommendations, no trades. Separate Monday 9 AM weekly committee run should assess Muse's weekly pack independently; don't duplicate this daily report.
+
+## 2026-11-16 Monday weekly committee run
+- Muse weekly investigation pack (Nov 15) **received and read**: https://docs.google.com/document/d/1tjBh55hG6FR4RPfBbzy8y86M9DfHnQH8aUxn1bw2A_k/edit
+- Weekly committee review **successfully committed**: [reviews/2026-11-16-weekly-investment-committee.md](reviews/2026-11-16-weekly-investment-committee.md), commit `4d120ae8741b53c59e266b8f35cdf6dd4a5e1692`. This demonstrates GitHub writes from the weekly task.
+- Ranked five for investment-research utility: Profluent 73 (private), GEODNET 69 (Coinbase GEOD token), Fervo 67 (Nasdaq FRVO), Varda 66 (private), Path Robotics 65 (private). No buys recommended.
+- Critical nuance: GEODNET official 2024 Blockworks disclosure itself describes 80% of correction-data revenue to burns; alleged 40% may be different subscription-revenue base. Burn transactions alone do not prove no earlier/off-chain market purchase. Need audited fiat revenue and wallet reconciliation. Fervo thermal claims remain disputed, and plant sustained output undisclosed.
+- GitHub issues #2, #3, #4, #6 remain follow-up priorities. Muse weekly pack delivery demonstrated; recurrence over multiple weeks not yet demonstrated.
