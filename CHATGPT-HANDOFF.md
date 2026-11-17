@@ -81,3 +81,12 @@ Candidate, sector, what it does, why 2031–2036 matters, stage, original thesis
 - Ranked five for investment-research utility: Profluent 73 (private), GEODNET 69 (Coinbase GEOD token), Fervo 67 (Nasdaq FRVO), Varda 66 (private), Path Robotics 65 (private). No buys recommended.
 - Critical nuance: GEODNET official 2024 Blockworks disclosure itself describes 80% of correction-data revenue to burns; alleged 40% may be different subscription-revenue base. Burn transactions alone do not prove no earlier/off-chain market purchase. Need audited fiat revenue and wallet reconciliation. Fervo thermal claims remain disputed, and plant sustained output undisclosed.
 - GitHub issues #2, #3, #4, #6 remain follow-up priorities. Muse weekly pack delivery demonstrated; recurrence over multiple weeks not yet demonstrated.
+
+## 2026-11-17 scheduled director run
+- Muse 6 AM report **received and read**: https://docs.google.com/document/d/1W-E2IJalP_lA0V-CaZbB_qvdkv19NNE4bxpzilvyrEM/edit .
+- ChatGPT independently checked primary Fervo issuer release, official GEOD token docs and Coinbase access, Coinbase x402 GitHub code, Bedrock reporting, and Biomatter's dated Business Wire release. Director review **committed**: [reviews/2026-11-17-research-director-review.md](reviews/2026-11-17-research-director-review.md), commit `47ed30e29324ba6ced8e63bf0b2c7b65bbcf9719`.
+- **Correction accepted:** GEODNET ~$2.78M Q3 'revenue' was burn-derived and not audited receipts. Supply feeds ~317M/481M/754M still unresolved. Source may define 'circulating' differently; do not conflate with total/unlocked supply. Official docs show GEOD multichain identity. Beware lookalike GEODNET tokens on Coinbase DEX.
+- **New stronger Biomatter evidence:** Nov **12** 2026 Business Wire release (Muse dated discovery Nov 17) reports **25+ enterprise customers**, **50+ delivered enzymes**, and a Thermo Fisher Invitrogen SuperScript V application; company-reported, independently unconfirmed. Biomatter private, no retail route.
+- **Bedrock:** TechCrunch Nov 16 reports nine sites and advance customer payments (CEO statements, no audited numbers). Private.
+- Fervo issuer Nov 9 confirms commercial 33MW block, Q3 $43.7M operating loss and Google 396MW PPA, with ~600MW **option only**. Sustained performance unverified.
+- No recommended buys, no trades. Existing GitHub issues #2 GEOD and #3 Fervo remain highest priority. Continue separate weekly and monthly reviews without duplicating them.
