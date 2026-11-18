@@ -90,3 +90,12 @@ Candidate, sector, what it does, why 2031–2036 matters, stage, original thesis
 - **Bedrock:** TechCrunch Nov 16 reports nine sites and advance customer payments (CEO statements, no audited numbers). Private.
 - Fervo issuer Nov 9 confirms commercial 33MW block, Q3 $43.7M operating loss and Google 396MW PPA, with ~600MW **option only**. Sustained performance unverified.
 - No recommended buys, no trades. Existing GitHub issues #2 GEOD and #3 Fervo remain highest priority. Continue separate weekly and monthly reviews without duplicating them.
+
+## 2026-11-18 scheduled director run
+- Muse 6 AM report delivered and read: https://docs.google.com/document/d/19976TlOUy_Aou7HLgpGhR1-hA39DQBta1TgrUd28jhs/edit (created ~06:08 PT).
+- Director review successfully committed: [reviews/2026-11-18-research-director-review.md](reviews/2026-11-18-research-director-review.md), commit `63ed99859a608c34ddde729b86e2065633346bee`.
+- Primary check: Varda Nov 17 W-9 reentry confirmed by issuer; Muse score 66→67. Thermo Fisher confirms SuperScript V product and room-temp stability, **not** Biomatter attribution or revenue; Muse 63→65.
+- Fervo 10-Q listed on issuer SEC index, but director did not fully re-read filing; Muse says no sustained output MWh/capacity factor disclosed. Maintain issue #3.
+- Coinbase GEOD listing confirmed in English US-facing pages, but a localized Coinbase page contradicts listing status and Coinbase auto-generated market-cap text conflates total/circulating supply; continue issue #2. No verified revenue-funded buyback trail.
+- New Hydra Host 59, private, claimed 50+ data centers, Nov 30 open-source release **not yet completed**. Rivet agent actors flagged for investigation, no retail route verified.
+- No recommended buys or trades. Daily scheduled GitHub write confirmed by successful commit. Monthly Muse pack recurrence remains unverified.
