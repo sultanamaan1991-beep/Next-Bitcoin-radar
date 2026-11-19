@@ -99,3 +99,10 @@ Candidate, sector, what it does, why 2031–2036 matters, stage, original thesis
 - Coinbase GEOD listing confirmed in English US-facing pages, but a localized Coinbase page contradicts listing status and Coinbase auto-generated market-cap text conflates total/circulating supply; continue issue #2. No verified revenue-funded buyback trail.
 - New Hydra Host 59, private, claimed 50+ data centers, Nov 30 open-source release **not yet completed**. Rivet agent actors flagged for investigation, no retail route verified.
 - No recommended buys or trades. Daily scheduled GitHub write confirmed by successful commit. Monthly Muse pack recurrence remains unverified.
+
+## 2026-11-19 scheduled director run
+- Muse Nov 19 6 AM report received and fully read: https://docs.google.com/document/d/1CyqvL9xIfEisH3MI47V8O--OpV7FV8UCXVReNZdxn1U/edit (created 06:02 PT).
+- Director review committed: [reviews/2026-11-19-research-director-review.md](reviews/2026-11-19-research-director-review.md), commit `ae0d61415106bdb9d453499fa605b4c8494119fd`.
+- New: Humyn Labs 67 (company claims $50M annualized; founders say $10M actual April–October, $20M signed contracts; $21M venture debt); Dcubed 66 (170+ customers and 500+ space products issuer-reported); Tesorai 60 (issuer-funded biotech data platform); Nidus 58 (bookings not revenue). All **private, NOT INVESTABLE**.
+- Fervo Nov 19 investor open house verified from issuer Oct 16 notice, no outcome or sustained MWh confirmed at 8 AM PT. GEOD circulating-supply feeds and buyback source-of-funds remain unreconciled.
+- Only GEOD (Coinbase token) and FRVO (Nasdaq equity) remain previously verified US retail access, **not buy recommendations**. No trades. Next run should focus on post-event Fervo operational evidence and independent validation of Humyn customer revenue, Dcubed deployed hardware.
