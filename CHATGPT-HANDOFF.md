@@ -106,3 +106,11 @@ Candidate, sector, what it does, why 2031–2036 matters, stage, original thesis
 - New: Humyn Labs 67 (company claims $50M annualized; founders say $10M actual April–October, $20M signed contracts; $21M venture debt); Dcubed 66 (170+ customers and 500+ space products issuer-reported); Tesorai 60 (issuer-funded biotech data platform); Nidus 58 (bookings not revenue). All **private, NOT INVESTABLE**.
 - Fervo Nov 19 investor open house verified from issuer Oct 16 notice, no outcome or sustained MWh confirmed at 8 AM PT. GEOD circulating-supply feeds and buyback source-of-funds remain unreconciled.
 - Only GEOD (Coinbase token) and FRVO (Nasdaq equity) remain previously verified US retail access, **not buy recommendations**. No trades. Next run should focus on post-event Fervo operational evidence and independent validation of Humyn customer revenue, Dcubed deployed hardware.
+
+
+## 2026-11-20 director run
+- Muse's dated 6 AM report **received and read in full**: https://docs.google.com/document/d/1cCV5HERVoTN1f9Lr-4WZjb_RwJWpIpudQtMcA394ebE/edit
+- Reviewed findings: [reviews/2026-11-20-research-director-review.md](reviews/2026-11-20-research-director-review.md). **New Nomadic** 66/100 private, company/investor-reported 20k line-hours, $6M seed Nov 17; Westnetz pilot needs direct confirmation. **Boltz** Nov 18 Series A $110M led by Bessemer (not a16z), private; its molecular tokens are API usage, not crypto assets.
+- GEODNET official documentation confirms governance voting rights, correcting earlier shorthand 'no vote'; no corporate equity/dividend. Coinbase/CMC both currently show ~481M circulating; Muse's ~754M is likely a different supply definition and requires reconciliation. Burn-derived revenue not audited.
+- Fervo Nov 19 open house promised no new disclosures; sustained MWh/capacity factor still absent. No buy recommendations or trades. Open GitHub issues #2/#3 remain priorities.
+- GitHub Nov 20 review commit confirmed: `941e18bef64b91ba74882ad9a2bd538a9cb57d45`.
