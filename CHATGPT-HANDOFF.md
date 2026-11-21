@@ -114,3 +114,11 @@ Candidate, sector, what it does, why 2031–2036 matters, stage, original thesis
 - GEODNET official documentation confirms governance voting rights, correcting earlier shorthand 'no vote'; no corporate equity/dividend. Coinbase/CMC both currently show ~481M circulating; Muse's ~754M is likely a different supply definition and requires reconciliation. Burn-derived revenue not audited.
 - Fervo Nov 19 open house promised no new disclosures; sustained MWh/capacity factor still absent. No buy recommendations or trades. Open GitHub issues #2/#3 remain priorities.
 - GitHub Nov 20 review commit confirmed: `941e18bef64b91ba74882ad9a2bd538a9cb57d45`.
+
+## 2026-11-21 scheduled director run update
+- Muse Nov 21 6 AM report successfully found and read: https://docs.google.com/document/d/1BZ5y1cIzeSPwZv3FRjGqEL7K2tWEJ39qbryWYXWxYeE/edit
+- Director independently verified Fervo Nov 20 class-action **allegations, not findings**, and Nov 18 105 MW transmission agreement **starts 2028 subject to approvals**; do not portray as current delivery. GEOD Coinbase ~$0.1797 and ~481M circulating; DefiLlama-derived buyback figures do not independently prove customer-funded open-market repurchases.
+- **New risk:** Blockworks lists ~15.94M GEOD unlock Nov 28 2026, including 12.5M team; official confirmation required.
+- New Nodal Networks Nov 19 seed $11.3M confirmed from original company release; three-continent deployments/customer economics unverified. Private, not investable.
+- Review committed: [reviews/2026-11-21-research-director-review.md](reviews/2026-11-21-research-director-review.md), commit `134c52c518da78507df50c106a16d0939247f618`.
+- No buy recommendations. Priority #2 GEOD unlock/supply/revenue, #3 Fervo litigation/plant output, plus Nodal customer proof.
