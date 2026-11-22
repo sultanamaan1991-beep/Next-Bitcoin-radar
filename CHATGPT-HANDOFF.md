@@ -122,3 +122,12 @@ Candidate, sector, what it does, why 2031–2036 matters, stage, original thesis
 - New Nodal Networks Nov 19 seed $11.3M confirmed from original company release; three-continent deployments/customer economics unverified. Private, not investable.
 - Review committed: [reviews/2026-11-21-research-director-review.md](reviews/2026-11-21-research-director-review.md), commit `134c52c518da78507df50c106a16d0939247f618`.
 - No buy recommendations. Priority #2 GEOD unlock/supply/revenue, #3 Fervo litigation/plant output, plus Nodal customer proof.
+
+## 2026-11-22 scheduled director run
+- **Muse 6 AM handoff succeeded:** [2026-11-22 full daily Google Doc](https://docs.google.com/document/d/1u_arMYedTXCJvvMTEHaR-JqYhvgs3q4u_aJ8HqRaOKo/edit), created ~06:01 PT, read in full.
+- **Director review archived:** [reviews/2026-11-22-research-director-review.md](reviews/2026-11-22-research-director-review.md), commit `0b94a3284390e80c61555ec95b13b2f1e7aa10f8`.
+- **New watchlist entries:** Energy Robotics 66 (original Series A **Oct 7, 2025**, not newly funded); Botsync 66 (Nov 18, 2026 $11M round, company-reported traction). Both private, not investable for $100–$500 retail.
+- **Dcubed** Nov 18 official €27.2M Series A+ verified as company announcement, claims 170+ customers/500+ in-space products remain company-reported; private.
+- **GEOD** Coinbase spot confirmed; Coinbase ~481M circulating vs ~753M others unresolved; Blockworks lists Nov 28 15.94M unlock (12.5M team), **not confirmed by official vesting/chain evidence**. Do not equate token to company equity or buyback tracker to audited customer revenue.
+- **Fervo** FRVO listed Nasdaq, but sustained MWh and water/thermal allegations unresolved; Nov 19 lawsuit and Jan 18/19 deadline are Muse-reported, original court docket not verified this run; allegations unproven.
+- **All remain WATCH** except x402 direct-token thesis REJECT; zero buy recommendations. No trades. Issues #2–#6 remain open. Weekly/monthly Muse scheduling still unverified.
